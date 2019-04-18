@@ -1,6 +1,10 @@
 var cardOne = "queen";
-var cardTow = "king";
-var cardThree = "queen";
-var cardFour = "king";
+var cardTow = "queen";
+var cardThree = "King";
+var cardFour = "King";
 console.log("User flipped " + cardOne);
-console.log("User flipped " + cardTow);
+console.log("User flipped " + cardThree);
+
+
+
+
